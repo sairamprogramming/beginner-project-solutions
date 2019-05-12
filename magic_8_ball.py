@@ -37,7 +37,7 @@ def main():
 
     # Getting the questions and giving back answers.
     while is_quit != 'y':
-        input('Enter your question: ')
+        input('\nEnter your question: ')
         
         print("thinking....")
         # Causes the system to sleep for 3 seconds.
